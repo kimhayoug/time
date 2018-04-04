@@ -50,12 +50,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="Time" destination="cbQ-Fi-QBk" id="ni4-Sz-Cth"/>
                         <outlet property="image" destination="yiA-23-FNK" id="Jk1-KF-Wzw"/>
                         <outlet property="imageCounter" destination="cbQ-Fi-QBk" id="1Ix-42-hd0"/>
-                        <outlet property="mytime" destination="cbQ-Fi-QBk" id="Wqj-Vp-ohv"/>
-                        <outlet property="stop" destination="Ilu-RN-Zka" id="yy0-UW-BcB"/>
-                        <outlet property="timeimage" destination="cbQ-Fi-QBk" id="LtW-vQ-Fmk"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
