@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         } else {
             counter = counter + 1
         }
-        image.image = UIImage(name: "frame\(counter).png")
+        image.image = UIImage(named: "frame\(counter).png")
         imageCounter.text = String(counter)
 }
 
